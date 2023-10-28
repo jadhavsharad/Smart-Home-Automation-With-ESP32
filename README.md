@@ -1,4 +1,4 @@
-# Smart-Home-Automation-With-ESP32
+# 🏡 Smart-Home-Automation-With-ESP32
 
 This "Home Automation System" combines a number of modern tools and technologies to create a comprehensive and intelligent method to manage and monitor a home environment. The major hardware components of the project consist of an ESP32 microcontroller, a 2-channel relay for device control, a DHT11 sensor for temperature and humidity readings, and a photodiode for fire detection.The personalized smartphone app has a straightforward interface for controlling lighting and other home appliances connected to the relay. Users may remotely monitor their home environment, manage tasks, and personalize settings.
 <br><br>
@@ -14,7 +14,7 @@ Let's see how this thing can be made...
 **6. Any AC Device** <br>
 <br>
 
-## First let's setup our Realtime Firebase Database <br>
+## First let's setup our Realtime Firebase Database
 
 Step 1: Visit `https://firebase.google.com/`
 
