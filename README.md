@@ -110,11 +110,11 @@ Step 2: Go to Arduino Settings > Additional Board Manager and paste the link giv
 
 <img width="1680" alt="Screenshot 2023-10-28 at 6 34 30 PM" src="https://github.com/jadhavsharad/Smart-Home-Automation-With-ESP32/assets/60263979/7e834281-2dde-43c8-9fa4-5a1864060057">
 
-Step 3: Go to Boards Manager > Search For ESP32 > 
+Step 3: Go to Boards Manager > Search For ESP32 
 
 <img width="1680" alt="Screenshot 2023-10-28 at 6 35 30 PM" src="https://github.com/jadhavsharad/Smart-Home-Automation-With-ESP32/assets/60263979/9a05b9a5-c402-4182-8a0d-76f0d0ccc7da">
 
-Step 4: Intall the Board: esp32 by espressif
+Step 4: Install the Board: esp32 by espressif
 
 <img width="1680" alt="Screenshot 2023-10-28 at 6 36 38 PM" src="https://github.com/jadhavsharad/Smart-Home-Automation-With-ESP32/assets/60263979/25d37d68-19e6-4b87-9fc3-ca53f1bc8afe">
 
