@@ -180,12 +180,16 @@ Step 7: Run `flutter_launcher_icons` and if you get any errors run first `flutte
 
 Step 8: Now run `flutter build apk --split-per-abi` in flutter project terminal to build an apk
 
-Step 9: Install that apk file in your device, it may show some google play protect errors while installing it's beacuse we haven't signed our apk. After installing now it's time to control our home our own app.
+Step 9: Install that apk file in your device, it may show some google play protect errors while installing, it's beacuse we haven't signed our apk. After installing now it's time to control our home our own app.
 <br><br><br>
 # Thank You!
+
 <br>
+
 ### You can raise issues if you have any kind of errors/issues regarding this project.
+
 <br>
+
 ### Your suggestions and feedbacks are most welcome
 
 
