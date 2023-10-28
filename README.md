@@ -1,8 +1,5 @@
 # Smart-Home-Automation-With-ESP32
 
-<hr>
-
-
 This "Home Automation System" combines a number of modern tools and technologies to create a comprehensive and intelligent method to manage and monitor a home environment. The major hardware components of the project consist of an ESP32 microcontroller, a 2-channel relay for device control, a DHT11 sensor for temperature and humidity readings, and a photodiode for fire detection.The personalized smartphone app has a straightforward interface for controlling lighting and other home appliances connected to the relay. Users may remotely monitor their home environment, manage tasks, and personalize settings.
 <br><br>
 Let's see how this thing can be made...
@@ -16,11 +13,8 @@ Let's see how this thing can be made...
 **5. Some Jumper Wires** <br>
 **6. Any AC Device** <br>
 <br>
-<hr>
 
 ## First let's setup our Realtime Firebase Database <br>
-
-<hr>
 
 Step 1: Visit `https://firebase.google.com/`
 
@@ -100,11 +94,7 @@ Step 18: Go to Project Settings
 
 Step 19: Copy the Web Api Key and Keep it, we will need it later on..
 
-<hr>
-
 ## Now Let's Move On to ESP32 Programming Part
-
-<hr>
 
 Download the given `ESP32 Code.ino` file after that you can use Arduino IDE or Platform IO for programming the ESP32. I am using Arduino IDE for this project.
 
@@ -149,11 +139,7 @@ Let's move on to the next section which is connecting all the hardware.
 
 $${\textsf{\color{red}BE CAREFUL WHILE WORKING WITH AC POWER SUPPLY}}$$
 
-<hr>
-
 ## Let's Move on to the App Developement
-
-<hr>
 
 Download Flutter and Install it.
 <br>
@@ -166,11 +152,7 @@ Download Flutter and Install it.
 > Replace the lib folder in flutter project with the given `lib` folder and also add the `assets` folder in your flutter project folder <br>
 >
 
-<hr>
-
 ## Let's Connect the Database To Our App
-
-<hr>
 
 <img width="1680" alt="Screenshot 2023-10-28 at 8 48 11 PM" src="https://github.com/jadhavsharad/Smart-Home-Automation-With-ESP32/assets/60263979/624032f9-6207-469a-8cf3-a7fc3d0668db">
 
